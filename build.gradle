@@ -9,7 +9,7 @@ repositories {
     mavenCentral()
 }
 
-ddependencies {
+dependencies {
     testImplementation 'org.junit.jupiter:junit-jupiter:5.10.2'
     testImplementation 'com.codeborne:selenide:6.19.1'
     testCompileOnly 'org.projectlombok:lombok:1.18.36'
